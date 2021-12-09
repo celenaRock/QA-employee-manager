@@ -1,0 +1,95 @@
+This conversation is in reference to this application: Employee Manager v1.0 (https://devmountain-qa.github.io/employee-manager/1.0_Version/index.html)
+
+	
+
+Take some time again to explore this site to understand it better.
+
+Now think back to the previous conversation, take some time to answer these questions:
+
+Was the customer justified with their complaints?
+
+	
+	No one shared with th customer that this was the final product
+
+Did the QA do a good job responding to the customer’s complaints?
+
+	Yes, defensively
+
+Would you address them in a different way?
+
+	be less defensive
+
+What information would you need to adequately respond to their concerns?
+
+	we need more communication involving needs, requirements. Everyone should be aware of project status.
+
+Based on the conversation above, create a checklist of features that the customer would like the website to do.
+
+	-Email for contact card
+	-Search employee list
+	-Log in and out as user
+	-UI interface
+
+
+Try to imagine yourself as a customer in this situation, what features would you want this employee manager site to have?
+
+	-secure database
+	-ease of use/intuitive
+	-aesthetically pleasing while functional
+
+Now that you’ve thought about things from the customer perspective, let’s shift back into the QA mindset.
+
+Here’s some documentation for Employee Manager: https://devmountain-qa.github.io/employee-manager/1.0_README.html
+
+Let’s remember what the Process of QA is:
+
+Planning
+
+Testing
+
+Reporting
+
+Following Up
+
+Use the documentation above to create a document that answers these questions:
+
+What are you testing?
+
+	 The save and cancel buttons will only be accessible when modifications have been made, the cancel button will revert the employee’s file back to the most recently saved version. passed test.
+
+
+How long will you test for? until the project is complete
+
+Are there pieces you aren’t going to test? It would be safer to test each function
+
+How do you plan on testing? manual test, trying to find ways which will not let the app function to customer specifications.
+
+How do you know when you’re done testing? All tests pass and customer specifications are met.
+
+By answering these questions, you’re starting to create a plan for your testing, the first step of the Process of QA!
+
+Now you’ll want to use that plan and take the next 30 minutes to do some testing! Take a close look at each feature in the application! This is the next phase, the actual testing!
+
+Now based on your findings from running some tests, create a report with a list of all the issues/bug you found, but also include the positives! If you think the application is a good start, be sure to say that!
+
+
+ISSUES:Currently unable to add to the list
+	Missing Fields
+We do not have a place for Email to be input.
+Lack of communication and client does not know this was a prototype because we did not provide documentation. This could be bad for both the client and our developers it is certainly a QA issue. 
+
+	We have 
+ID
+Name
+Phone
+And Title
+
+	
+
+And our last phase, following up. Take the next 30 minutes to write out a report to the customer from earlier in the lab. Include the issues you’ve found, and how you’d plan to address their questions and concerns.
+
+REPORT:
+
+	-
+
+Push your work to your GitHub account so that your education team can review your work.
